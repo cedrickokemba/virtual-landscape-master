@@ -28,7 +28,7 @@ L'explication qui va suivre portera sur l'objet ciels. La structure du code est 
 
 Tout d'abord, nous créons un nouveau fichier que l'on nommera Ciels.js.
 
-Ce code importe la classe AbstractForm à partir du fichier AbstractForm.js. Elle permet à la classe Coquillage et d'hériter de la classe AbstractForm et ainsi fonctionner.
+Ce code importe la classe AbstractForm à partir du fichier AbstractForm.js. Elle permet à la classe Ciels et d'hériter de la classe AbstractForm et ainsi fonctionner.
 [source,js]
 ----
 { AbstractForm } from './AbstractForm.js';
