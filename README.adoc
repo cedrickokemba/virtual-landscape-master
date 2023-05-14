@@ -1,0 +1,51 @@
+= Compte rendu : _Projet Virtual Landscape_
+:toc-title: Tables des matières
+:toc: top
+
+Projet réalisé par : +
+*OKEMBA MEBOUKOU* Cedrick Loïck +
+
+Du 05/04/2023 au 14/05/2023
+
+== *Contexte :* +
+----
+Dans le cadre du projet Virtual Landscape, l'objectif était d'apprendre à travailler avec un nouveau langage de programmation "JavaScript" dans une approche objet et événementielle, puis utiliser une API en autodidacte. Et enfin, développer notre créativité.
+----
+
+===  *Introduction :* +
+----
+Après avoir cerné les objectifs de ce projet, verrons comment créer un objet et l'exploiter, puis les difficultés rencontrées et enfin, nous terminerons par une conclusion personnelle.
+----
+
+<<<
+
+== *I. Création du projet*
+
+Le projet s'est inspiré de la ville avec un dessin et des couleurs.
+
+
+L'explication qui va suivre portera sur l'objet ciels. La structure du code est identique pour tous les autres objets hormis les valeurs et le tracé du dessin.
+
+Tout d'abord, nous créons un nouveau fichier que l'on nommera Ciels.js.
+
+Ce code importe la classe AbstractForm à partir du fichier AbstractForm.js. Elle permet à la classe Coquillage et d'hériter de la classe AbstractForm et ainsi fonctionner.
+[source,js]
+----
+{ AbstractForm } from './AbstractForm.js';
+----
+
+<<<
+
+== *II. Difficultés rencontrées*
+La première difficulté comme tout nouveau projet a été de comprendre les objectifs et d'assimiler de nouvelles connaissances.
+
+Puis la seconde difficulté a été de trouver l'inspiration. En effet, il a été difficile pour moi de réaliser un projet original et qui puisse avant tout être atteignable et en même temps livrable dans les délais imposés.
+
+Enfin, quelques difficultés sur l'usage de certaines méthodes.
+
+J'ai essayer de faire une route mais sans succes
+
+
+
+== *II. Conclusion*
+Le projet a été très instructif, et cela m'a permis de programmer d'une manière différente. Cependant, je n'ai pas réussi à assimiler et à utiliser certains fondements. Enfin, je ressentais une certaine limite car, je n'ai pu faire que des cercle.
